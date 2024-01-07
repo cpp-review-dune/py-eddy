@@ -1,4 +1,4 @@
-image: ghcr.io/cpp-review-dune/introductory-review/python-py-eddy
+image: ghcr.io/cpp-review-dune/introductory-review/jupyter-python-py-eddy
 
 tasks:
   - name: Starting server
